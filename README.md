@@ -1,7 +1,7 @@
 <!-- [![Header](https://i.ibb.co/2sFG0yJ/banner.png "Header")](Mustaballer.github.io) -->
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%"> Hello, folks! 
 
-My name is Mustafa Abdulrahman and I'm a computer engineering student at the University of Toronto. I'm passionate about full stack development and and hackathons and I am keen on 
+My name is Mustafa Abdulrahman and I'm a computer engineering student at the University of Toronto. I'm passionate about full stack development and hackathons and I am keen on 
 learning new technologies.
 
 Devpost: https://devpost.com/mus2003abdul \
