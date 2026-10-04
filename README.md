@@ -9,6 +9,4 @@ Hey, I'm Mustafa 👋 I'm a software engineer at Amazon in Toronto, mostly worki
 <a href="https://devpost.com/mus2003abdul"><img src="https://img.shields.io/badge/Devpost-mus2003abdul-c9a24a?style=flat-square&logo=devpost&logoColor=white&labelColor=101a33" alt="Devpost" /></a>
 <a href="mailto:mus2003.abdul@gmail.com"><img src="https://img.shields.io/badge/Email-mus2003.abdul@gmail.com-c9a24a?style=flat-square&logo=gmail&logoColor=white&labelColor=101a33" alt="Email" /></a>
 
-<img src="https://skillicons.dev/icons?i=ts,py,java,cpp,react,electron,aws,docker,postgres,threejs&theme=dark" alt="TypeScript, Python, Java, C++, React, Electron, AWS, Docker, PostgreSQL, three.js" />
-
-🏰 My portfolio is a 3D study you can explore — **[step inside](https://mustheballer.com/?mode=study)**.
+🏰 My portfolio is a 3D study you can explore —> **[step inside](https://mustheballer.com/?mode=study)**.
